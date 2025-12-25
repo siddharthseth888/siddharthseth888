@@ -18,7 +18,7 @@
 <a href="https://twitter.com/mysterons_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mysterons_20" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/siddharth-seth-3448ab255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharthseth" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siddharth_seth20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddharth_seth20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lospollos_hermanos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lospollos_hermanos" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mysterons_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lospollos_hermanos" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siddharthseth20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddharthseth20" height="30" width="40" /></a>
 </p>
 
