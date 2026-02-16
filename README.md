@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth Seth</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthseth888" alt="siddharthseth888" /></a> </p>
-
 - 🔭 I’m currently working on **Software Development and Data Structures and Algorithms.**
 
 - 🌱 I’m currently learning **Quantum Computing, Data Structures and Algorithms, web3, and much more.**
